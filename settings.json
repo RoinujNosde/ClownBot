@@ -1,0 +1,20 @@
+{
+    "prefix": ".",
+    "token": "INSERT_TOKEN",
+    "rrchannelid": "868157231802220584",
+    "rrmessageid": "868158535538712656",
+    "deleted_channel_id": "890024741547679754",
+    "suggestions_channel_id": "720101203047874610",
+    "plugins": [
+        "SimpleClans",
+        "CryptoMining",
+        "CryptoMarket",
+        "TitansBattle",
+        "Dynmap-SimpleClans",
+        "XPTax",
+        "SimplePayDay",
+        "WantedNotification",
+        "CrackShot-SimpleClans",
+        "Other"
+    ]
+}
